@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 720" width="900" height="720">
+	<title>New Project</title>
+	<defs>
+		<image  width="900" height="720" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA4QAAALQAQMAAADy6CwtAAAAAXNSR0IB2cksfwAAAANQTFRFAAAAp3o92gAAAAF0Uk5TAEDm2GYAAABmSURBVHic7cGBAAAAAMOg+VMf4QJVAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMA3QK8AAUYzWLUAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		.s0 { fill: #222222 } 
+	</style>
+	<ellipse id="Shape 1" class="s0" cx="449.5" cy="359.5" rx="378.5" ry="352.5"/>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>

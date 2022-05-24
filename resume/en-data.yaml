@@ -1,0 +1,48 @@
+lang: en
+
+name:
+  first: Pongthorn  
+  last: Kitchawasuwan
+
+position: Front End Developer
+
+contacts:
+  phone: 094-251-1308
+  email: aorae.kitchawasuwan@gmail.com
+  linkedIn: '@kwaibey'
+
+
+profile: I graduated in the field of Applied Computer Science.I have experience in frontend and backend. But I like frontend than.I will be very happy if me make template like prototype.
+
+skills:
+- "HTML"
+- "Javascript"
+- "CSS"
+- "PHP"
+
+experience:
+- workPosition: Web Developer(Intern)
+  workPeriod: Sep 2019 - Dec 2019
+  companyName: 99 BILLION Part., Ltd.
+  description: Website development for Department of Disaster Prevention and Mitigation.
+
+
+- workPosition: App Developer(Intern)
+  workPeriod: Jan 2020 - Apr 2020
+  companyName: Global Technology Integrated Co., Ltd.
+  description: Application development in Andriod Studio Program.
+
+
+- workPosition: Front-end Developer
+  workPeriod: Sep 2020 - Nov 2020
+  companyName: Eca Digital Co., Ltd.
+  description: Website development for new graduated needed create resume or buy course.
+
+education:
+- degreeTitle: Applied Computer Science
+  institutionName: Sripatum University
+  studyDirection: Graduate 2020. GPA - 2.74
+
+- degreeTitle: Human resources
+  institutionName: Seekan(Wattanananuppathum)
+  studyDirection: Graduate 2016. GPA - 2.79
