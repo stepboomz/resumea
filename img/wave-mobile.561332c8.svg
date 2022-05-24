@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320" width="1440" height="320">
+	<title>wave-mobile</title>
+	<defs>
+		<image  width="1440" height="288" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAAEgAQMAAAB4kUZAAAAAAXNSR0IB2cksfwAAAAZQTFRF2s/L2s/LHAHw1AAAAAJ0Uk5T/wDltzBKAAAAaUlEQVR4nO3YQQ0AIBDAsPNvGjzwGIG0CvbeDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPCZ9SDRFdEV0RXRFdEV0RXRFdEV0RXRFdEV0ZXbr+jIBvTwg2xbodqLAAAAAElFTkSuQmCC"/>
+		<image  width="1440" height="287" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaAAAAEfAQMAAACNvfM4AAAAAXNSR0IB2cksfwAAAAZQTFRFIiIi+oByY+J4fgAAAGFJREFUeJztzgENADAIwDD8mz4ulpy0CjoDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHPM+JF2RrkhXpCvSFemKdEW6Il2RrkhXpCsLBDCDbF/30/cAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+	<use id="Layer 1" href="#img2" x="0" y="0"/>
+</svg>
